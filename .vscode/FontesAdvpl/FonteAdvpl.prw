@@ -2,5 +2,7 @@
 #Include 'Totvs.ch'
 
 User Function FONTE()
-	MsgInfo("Olá, Primeiro fonte em ADVPL","Titulo da MsgInf")
+	MsgAlert("Olá, Primeiro fonte em ADVPL","Titulo da MsgInf") // MsgAlert para o usuário
+
+    
 Return
