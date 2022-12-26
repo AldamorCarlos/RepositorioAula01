@@ -2,5 +2,5 @@
 #Include 'Totvs.ch'
 
 User Function FONTE()
-	MsgInfo("Olá, Primeiro fonte em ADVPL","Campo2")
+	MsgInfo("Olá, Primeiro fonte em ADVPL","Titulo da MsgInf")
 Return
